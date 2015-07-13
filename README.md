@@ -1,0 +1,2 @@
+# scalabasic
+scala basic knowledge
